@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @animesh karmakar
+- 👋 I have expertise in PHP, PHP framework laravel.
 - 👀 I’m interested in software Engineering and programming.
 - 🌱 I’m currently learning redis and node.js, Kafka, microservice architecture
 - 💞️ I’m looking to collaborate on open source projects 
