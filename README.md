@@ -6,8 +6,11 @@
 - 📫 animesh.pust@gmail.com
 
 My current stack is: 
-![919853](https://user-images.githubusercontent.com/26783655/185774440-7e160889-1fd6-43d4-b19f-5ce239aed0c5.png)
-![kafka-icon-blue](https://user-images.githubusercontent.com/26783655/185774445-1953e01f-53dd-443b-bf8d-21b2afdd27a5.jpg)
+![apache_kafka_icon_138937](https://user-images.githubusercontent.com/26783655/185774532-6da4d630-0272-4193-aa81-8215c78aa5f3.png)
+![docker_icon_130955](https://user-images.githubusercontent.com/26783655/185774543-1b9ad74f-9a21-407c-84b4-f663bce242f0.png)
+![laravel_icon_130892](https://user-images.githubusercontent.com/26783655/185774556-076584ab-2fc8-4952-a092-2c6af30c17a3.png)
+![react_icon_130845](https://user-images.githubusercontent.com/26783655/185774548-e7986d7c-a303-43ed-a986-176c19b5b25c.png)
+
 
 <!---
 animeshkarmakarAK/animeshkarmakarAK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
