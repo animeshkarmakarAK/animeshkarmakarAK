@@ -6,15 +6,15 @@
 - 📫 animesh.pust@gmail.com
 
 My current stack is: 
-<div>
-  <img src= "![apache_kafka_icon_138937](https://user-images.githubusercontent.com/26783655/185774532-6da4d630-0272-4193-aa81-8215c78aa5f3.png)" width="100px" heigth="100px"/>
-    <img src= "![apache_kafka_icon_138937](https://user-images.githubusercontent.com/26783655/185774532-6da4d630-0272-4193-aa81-8215c78aa5f3.png)" width="100px" heigth="100px"/>
-    <img src= "![apache_kafka_icon_138937](https://user-images.githubusercontent.com/26783655/185774532-6da4d630-0272-4193-aa81-8215c78aa5f3.png)" width="100px" heigth="100px"/>
-</div>
+1. Apache kafka
+2. Docker
+3. React.js 
+4. Node.js 
+5. PHP Laravel
 
-![docker_icon_130955](https://user-images.githubusercontent.com/26783655/185774543-1b9ad74f-9a21-407c-84b4-f663bce242f0.png)
-![laravel_icon_130892](https://user-images.githubusercontent.com/26783655/185774556-076584ab-2fc8-4952-a092-2c6af30c17a3.png)
-![react_icon_130845](https://user-images.githubusercontent.com/26783655/185774548-e7986d7c-a303-43ed-a986-176c19b5b25c.png)
+Learning: 
+1. Kafka confluent platform
+2. Data intensive application management
 
 
 <!---
