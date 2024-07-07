@@ -11,7 +11,11 @@ My current stack is:
 3. MySQL/Oracle/MongoDB
 4. Docker
 5. Apache kafka/Apachi nifi
-6. Jira 
+6. Jira
+7. python/Apache airflow/ Apache nifi
+
+Current project: 
+Building an ETL tool using python and Apache airflow.
 
 Learning: 
 1. Data intensive application management.
