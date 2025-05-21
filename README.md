@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @animesh karmakar
-- 👋 I have experience in PHP(Laravel, Lumen, CakePHP), JavaScript(Next.js, React.js, Redux, jQuery, Bootstrap etc.).
+- 👋 Hi, I’m Animesh karmakar
+- 👋 I have experience in PHP (Laravel, Lumen, CakePHP), JavaScript(Next.js, React.js, Redux, jQuery, Bootstrap etc.).
 - 👀 I’m interested in software Engineering and programming.
 - 🌱 I’m currently working with redis, Node.js, Apache Kafka, Apache nifi, Docker, microservice architecture, Distributed systems
 - 💞️ I’m looking to collaborate in open source projects 
 - 📫 Contact me in animesh.pust@gmail.com
 
 My current stack is: 
-1. PHP/Laravel
+1. PHP/Laravel/Slim/CakePHP 
 2. JavaScript/React.js/Node.js
 3. MySQL/Oracle/MongoDB
 4. Docker
@@ -15,11 +15,11 @@ My current stack is:
 7. python/Apache airflow.
 
 Current project: 
-Building an ETL tool using python and Apache airflow.
+Working in a Micro service architectured distributed system project which is a Payment Orchestration Layer.
 
 Learning: 
 1. Data intensive application management.
-2. Deep dive on Database system concepts.
+2. Deep dive on Docker and K8.
 
 Professional projects:
 1. ETL tool for National Portal Forum using python, apache airflow, MySQL, MongoDB.
