@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Animesh karmakar
-- 👋 I have experience in PHP (Laravel, Lumen, CakePHP), JavaScript(Next.js, React.js, Redux, jQuery, Bootstrap etc.).
+- 👋 I have experience in PHP (Laravel, Lumen, CakePHP), JavaScript (Next.js, React.js, Redux, jQuery, Bootstrap etc.).
 - 👀 I’m interested in software Engineering and programming.
-- 🌱 I’m currently working with redis, Node.js, Apache Kafka, Apache nifi, Docker, microservice architecture, Distributed systems
+- 🌱 I’m currently working with PHP, javaScript, TypeScirpt, RabbitMQ, redis, Node.js, Apache Kafka, Apache nifi, Docker, microservice architecture, Distributed systems
 - 💞️ I’m looking to collaborate in open source projects 
 - 📫 Contact me in animesh.pust@gmail.com
 
